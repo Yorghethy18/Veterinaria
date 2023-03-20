@@ -8,3 +8,12 @@
 
 ## Acerca del programador
 Autor : Hernandez Yeren Yorghet Fernanda
+
+Mi carrera es: **Ingeniería de Software con IA**
+Puede escribir a mi correo: *yorghetyauri123@gmail.com*
+
+## Otras tecnologías
+- Java
+- PHP
+- SQL
+- Python
