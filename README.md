@@ -10,6 +10,7 @@
 Autor : Hernandez Yeren Yorghet Fernanda
 
 Mi carrera es: **Ingeniería de Software con IA**
+gi
 Puede escribir a mi correo: *yorghetyauri123@gmail.com*
 
 ## Otras tecnologías
